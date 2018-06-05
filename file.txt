@@ -1,2 +1,2 @@
-My first line in project
 Paris is the capital of France
+file.txt
